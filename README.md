@@ -36,6 +36,7 @@ Banco de Dados
 SQLite
 
 🏗️ Estrutura do Projeto
+
 MiniERP/
 │
 ├── backend/
