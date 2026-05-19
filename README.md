@@ -52,12 +52,12 @@ MiniERP/
 └── frontend/
     ├── index.html
     ├── style.css
-    └── script.js
+    └── script.js ```
 
 ### 👩‍💻 Desenvolvido por
 
 Isabelle Victória Galdino Santos
 Estudante de Ciência da Computação
 
-### GitHub: https://github.com/belyisa-bit
-### LinkedIn: https://www.linkedin.com/in/isabelle-victória-b4237a345/
+- GitHub: https://github.com/belyisa-bit
+- LinkedIn: https://www.linkedin.com/in/isabelle-victória-b4237a345/
