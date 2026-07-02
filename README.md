@@ -110,9 +110,3 @@ MiniERP/
 | GET    | `/saldo`  | Retorna `{totalEntradas, totalSaidas, saldo}` |
 | POST   | `/`       | Lançamento manual `{tipo: "entrada"\|"saida", valor, descricao}` |
 
-## 💡 Próximos passos sugeridos
-
-- Autenticação de usuários
-- Edição de vendas / cancelamento com estorno de estoque
-- Relatórios (vendas por período, produtos mais vendidos)
-- Paginação nas listagens
